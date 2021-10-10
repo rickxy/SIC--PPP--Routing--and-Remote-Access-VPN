@@ -1,5 +1,6 @@
 # SIC--PPP--Routing--and-Remote-Access-VPN
 SIC: PPP, Routing, and Remote Access VPN
+![Screenshot (94)](https://user-images.githubusercontent.com/36708000/136677618-3449b9b9-b314-4786-af97-339867aeb5b3.png)
 
 Addressing Table
 
